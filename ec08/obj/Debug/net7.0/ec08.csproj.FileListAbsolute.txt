@@ -1,0 +1,14 @@
+C:\Users\igor55009746\Documents\listadedever\ec08\bin\Debug\net7.0\ec08.exe
+C:\Users\igor55009746\Documents\listadedever\ec08\bin\Debug\net7.0\ec08.deps.json
+C:\Users\igor55009746\Documents\listadedever\ec08\bin\Debug\net7.0\ec08.runtimeconfig.json
+C:\Users\igor55009746\Documents\listadedever\ec08\bin\Debug\net7.0\ec08.dll
+C:\Users\igor55009746\Documents\listadedever\ec08\bin\Debug\net7.0\ec08.pdb
+C:\Users\igor55009746\Documents\listadedever\ec08\obj\Debug\net7.0\ec08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor55009746\Documents\listadedever\ec08\obj\Debug\net7.0\ec08.AssemblyInfoInputs.cache
+C:\Users\igor55009746\Documents\listadedever\ec08\obj\Debug\net7.0\ec08.AssemblyInfo.cs
+C:\Users\igor55009746\Documents\listadedever\ec08\obj\Debug\net7.0\ec08.csproj.CoreCompileInputs.cache
+C:\Users\igor55009746\Documents\listadedever\ec08\obj\Debug\net7.0\ec08.dll
+C:\Users\igor55009746\Documents\listadedever\ec08\obj\Debug\net7.0\refint\ec08.dll
+C:\Users\igor55009746\Documents\listadedever\ec08\obj\Debug\net7.0\ec08.pdb
+C:\Users\igor55009746\Documents\listadedever\ec08\obj\Debug\net7.0\ec08.genruntimeconfig.cache
+C:\Users\igor55009746\Documents\listadedever\ec08\obj\Debug\net7.0\ref\ec08.dll
